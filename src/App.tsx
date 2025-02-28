@@ -12,7 +12,7 @@ function App() {
       </div>
       
       {/* Main content */}
-      <div className="relative z-10 max-w-3xl mx-auto px-4 py-16 sm:px-6 sm:py-24">
+      <div className="relative z-10 max-w-3xl mx-auto px-4 pt-16 sm:px-6 sm:pt-24">
         <header className="mb-12">
           <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-5xl mb-2">
             Hi, I'm Divya Soni
